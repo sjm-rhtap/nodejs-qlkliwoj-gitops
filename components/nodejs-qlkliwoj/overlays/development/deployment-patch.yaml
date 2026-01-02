@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.cluster-t98q8.t98q8.sandbox2574.opentlc.com/tssc_qe/nodejs-qlkliwoj:377459e67b8a2d387dfdb171301dee7f5dcc43b4@sha256:2bd6da1dffc7297c354f8c0ab0a78cb9dde59fb49b721cae3dbb52f52e107707
+        - image: nexus-docker-nexus.apps.cluster-t98q8.t98q8.sandbox2574.opentlc.com/tssc_qe/nodejs-qlkliwoj:5acd1a477ebd8e2073d683ca37863f04d0c68f8a@sha256:330010b21c478b94e5c77f9c3243d55485d7e7024dde5a96c71847b8c0f3b2cc
           name: container-image
